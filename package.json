@@ -6,7 +6,7 @@
     "author": "Simon Reinisch <toports@gmx.de>",
     "description": "",
     "keywords": [],
-    "main": "./dist/bundle.min.js",
+    "main": "./dist/gpickr.min.js",
     "scripts": {
         "build": "webpack --mode production",
         "dev": "webpack-dev-server --mode development",
